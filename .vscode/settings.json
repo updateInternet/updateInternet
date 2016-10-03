@@ -1,0 +1,8 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+
+    "editor.fontSize": 12,
+    "editor.tabSize": 2,
+    "files.autoSave": "onFocusChange",
+    "extensions.autoUpdate": true,
+}
