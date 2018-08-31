@@ -1,4 +1,6 @@
 """Implementing tee functionality in Python.
+
+using pytimetee.py library.
 """
 import sys
 
